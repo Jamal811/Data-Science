@@ -1,0 +1,32 @@
+Machine Larning Specilization from deep learning coursera topic
+week 1:
+1. Supervised vs UnsuperVised machine learning
+2. Regression Model - Linear regression, cost function/formula/
+visualization, 
+3.train the model with gradient descent -implementation, 
+gradient descent intuition, learning rate, gradient descent 
+for linear regression, running gradient descent.
+
+week 2:
+1. Multiple features
+2. Vectorization
+3. Gradient descent for multiple linear regression
+4. Feature scaling and (mean normalization, Gradient descent, Z-score normalization)
+5. Checking gradient descent for convergence
+6. Feature engineering
+7. Polynomial regression
+
+week 3:
+1. Optional lab: Classification
+2. Logistic regression/Classification by Logistic regression/
+3. Decision boundary
+4. Cost function for logistic regression
+5. Simplified Cost Function for Logistic Regression
+6. Gradient Descent Implementation
+7. The problem of overfitting
+8. Addressing overfitting
+9. Cost function with regularization
+10. Regularized linear regression
+
+
+
