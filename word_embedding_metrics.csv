@@ -1,0 +1,11 @@
+Word Embedding,Models,Precision,Recall,F1-Score,Accuracy
+Word2Vec,BiLSTM,86.12%,88.79%,83.34%,85.98%
+Word2Vec,BiGRU,86.42%,86.59%,86.86%,86.73%
+Word2Vec,ConvBiLSTM,86.96%,87.28%,87.18%,87.23%
+Word2Vec,ConvBiGRU,85.85%,89.31%,82.13%,85.57%
+Word2Vec,1D-CNN,86.96%,85.90%,89.10%,87.47%
+FastText,BiLSTM,83.40%,91.48%,87.25%,86.35%
+FastText,BiGRU,83.77%,89.83%,86.69%,85.92%
+FastText,ConvBiLSTM,85.22%,89.99%,87.54%,86.92%
+FastText,ConvBiGRU,86.64%,88.52%,87.57%,87.17%
+FastText,1D-CNN,88.70%,84.24%,86.41%,86.47%
